@@ -19,9 +19,4 @@ int main(int argc, char *argv[]) {
 	}
 
 	outb(FC_MAGIC_IOPORT_VALUE, FC_MAGIC_IOPORT);
-
-//	while(1) {
-//		sleep(10);
-//	}
-//	return 0;
 }
